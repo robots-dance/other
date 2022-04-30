@@ -1,4 +1,9 @@
-[submodule "vex"]
+[submodule "openreil"]
     path = openreil 
     url = https://github.com/Cr4sh/openreil.git
+    branch = master
+
+[submodule "debit"]
+    path = debit
+    url = https://github.com/djn3m0/debit.git
     branch = master
