@@ -7,3 +7,23 @@
     path = debit
     url = https://github.com/djn3m0/debit.git
     branch = master
+
+[submodule "angr"]
+    path = angr
+    url = https://github.com/angr/angr.git
+    branch = master
+
+[submodule "pycparser"]
+    path = pycparser
+    url = https://github.com/eliben/pycparser.git
+    branch = master
+
+[submodule "ida-splode"]
+    path = ida-splode
+    url = https://github.com/zachriggle/ida-splode.git
+    branch = master
+
+[submodule "i2pd"]
+    path = i2pd
+    url = https://github.com/PurpleI2P/i2pd.git
+    branch = master
