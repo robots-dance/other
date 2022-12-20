@@ -27,3 +27,18 @@
     path = i2pd
     url = https://github.com/PurpleI2P/i2pd.git
     branch = master
+
+[submodule "miasm"]
+    path = miasm
+    url = https://github.com/cea-sec/miasm
+    branch = master
+
+[submodule "pyvex"]
+    path = pyvex
+    url = https://github.com/angr/pyvex
+    branch = master
+
+[submodule "pefile"]
+    path = pefile
+    url = https://github.com/erocarrera/pefile
+    branch = master
